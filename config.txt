@@ -11,9 +11,9 @@
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "ovW5U6Bb3kZvwPnsBlTOdQRqgfcY",
+"weather_key": "56b89b2a1ea747ba8957d988717f937e",
 # 天行数据apikey
-"tian_api": "ovW5U6Bb3kZvwPnsBlTOdQRqgfcY",
+"tian_api": "fd2c1e6b74738b786367c117374fd303",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "临汾",
 # 生日
